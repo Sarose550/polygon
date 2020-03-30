@@ -1,0 +1,17 @@
+torus
+0 0 0 15 100
+torus
+200 0 0 15 100
+ident
+rotate
+x 90
+apply
+ident
+torus
+100 0 0 15 100
+ident
+move
+200 200 0
+apply
+display
+quit
